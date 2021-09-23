@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thaisinha02.
+- 👀 I’m interested in data science and visualization.
+- 🌱 I’m currently learning R (programming language), Azure (Azure Synapse Analytics, o Azure Databricks e o Azure HDInsight).
+- 💞️ I’m looking to collaborate on SQL(programming language).
